@@ -31,8 +31,8 @@ h1{
   font-style: italic;
   font-weight: normal;
   margin-top: 8%;
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 #signature{
   font-size: 1.3em;
@@ -40,4 +40,15 @@ h1{
   margin-top: 20%;
   margin-left: 25%;
   margin-right: 25%;
+}
+#image{
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  color: yellow;
+}
+button{
+  background-color: black;
+  color: white;
+  border-radius: 5px;
 }
