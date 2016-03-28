@@ -1,0 +1,34 @@
+html{
+  background-color: black;
+  /*background-image: url("night-sky6.jpg");
+  background-size: cover;*/
+}
+body{
+  margin: 0px;
+  padding: 10%;
+  color: white;
+}
+a{
+  color: white;
+}
+link{
+  color: white
+}
+.bonjour{
+  text-align: center;
+  /*position: relative;
+  top: 25%;
+  font-family: sans-serif, arial, helvetica;
+  font-weight: bold;
+  font-size: 3em;*/
+}
+button{
+  background-color: black;
+  color: white;
+  font-family: sans-serif, arial, helvetica;
+  position: relative;
+  top: 25%;
+  left: 47%;
+  font-size: 2em;
+  border-radius: 15px 0px 15px 0px;
+}
