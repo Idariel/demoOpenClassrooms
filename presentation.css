@@ -29,12 +29,13 @@ h1{
 #suite{
   font-size: 1.8em;
   font-style: italic;
+  font-weight: normal;
   margin-top: 8%;
   margin-left: 25%;
   margin-right: 25%;
 }
 #signature{
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-weight: normal;
   margin-top: 20%;
   margin-left: 25%;
